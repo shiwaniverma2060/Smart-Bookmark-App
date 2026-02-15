@@ -27,7 +27,7 @@ Solution: Connected GitHub repository to Vercel for automatic deployment.
 
 ## Deployment
 
-Live URL: (Add after deploying on Vercel)
+Live URL: (Live URL: https://smart-bookmark-app-rsug.vercel.app)
 
 ## Author
 
